@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @22algodaddy
 - 👀 I’m interested in Full Stack Development and Softwere Development
 - 🌱 I’m currently learning Full Stack Development(Back-end)
+- Recently completed my internship at PhonePe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Choubeydhruv2014@gmail.com
 
